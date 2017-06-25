@@ -1,0 +1,57 @@
+body{
+  background-image: url(https://4.bp.blogspot.com/_lt7mqArj10Q/S8-vchDgc0I/AAAAAAAAAFQ/O9ZVfpcEm8g/s1600/parkway+edited+small.jpg) ;         /*image source*/
+  background-size: cover; /*cover the whole page not tiled*/
+  /*background-position:center;
+  background-repeat:no-repeat;
+*/
+}
+h2{
+  padding:auto;
+}
+.container{
+  margin:auto;
+  width:50vw;
+}
+.display{
+  background-color: white;
+  border: 1px solid black;
+  height:20vh;
+  margin-top:10%;
+  padding:10px;
+}
+.backward{
+  border: 1px solid black;
+  border-radius: 5px ;
+  text-align: center;
+  width:130px;
+  height:50px;
+  margin:20px 30px 10px 30px;
+  background-color:#728C8C;
+  float:left;
+}
+.forward{
+  border: 1px solid black;
+  border-radius: 5px;
+  text-align:center;
+  width:130px;
+  height:50px;
+  margin:20px 60px 10px 60px;
+  background-color:#728C8C;
+  float:left;
+  
+}
+.knowmore{
+  border: 1px solid black;
+  border-radius: 5px;
+  text-align:center;
+  width:130px;
+  height:50px;
+  margin-top:20px;
+  background-color:#728C8C;
+  float:left;
+  margin-left:30px;
+}
+#author{
+  float:right;
+  margin:auto;
+}
